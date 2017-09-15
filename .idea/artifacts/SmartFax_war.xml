@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SmartFax:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SmartFax WebApp.war">
+      <element id="artifact" artifact-name="SmartFax:war exploded" />
+    </root>
+  </artifact>
+</component>
