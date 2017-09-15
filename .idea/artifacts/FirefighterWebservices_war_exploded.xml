@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="SmartFax:war exploded">
-    <output-path>$PROJECT_DIR$/target/SmartFax WebApp</output-path>
+  <artifact type="exploded-war" name="FirefighterWebservices:war exploded">
+    <output-path>$PROJECT_DIR$/target/FirefighterWebservices WebApp</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -24,7 +24,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/SmartFax WebApp/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/FirefighterWebservices WebApp/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="FirefighterWebservices/web/Web" />
     </root>

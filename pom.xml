@@ -85,7 +85,7 @@
 
     </dependencies>
     <build>
-        <finalName>SmartFax WebApp</finalName>
+        <finalName>FirefighterWebservices WebApp</finalName>
 
 
         <plugins>
