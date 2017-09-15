@@ -1,4 +1,4 @@
-package com.SmartFax.controller;
+package com.FirefighterWebservices.controller;
 
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
